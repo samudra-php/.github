@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Samudra logo](https://avatars.githubusercontent.com/u/276554371?s=400&u=6acdd0f1d9c9faa17ccd5e45b8547a773623fff2&v=4)
+
 <!--
 
 **Here are some ideas to get you started:**
